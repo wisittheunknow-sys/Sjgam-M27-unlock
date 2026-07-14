@@ -16,7 +16,7 @@ This project aims to document the hardware and software architecture of the cons
 
 ## Current Status
 
-## factory Check access
+### factory Check access
 - press select and (A,B,X,Y) in the original template launch testmode.apk
 
 ### Hardware access
