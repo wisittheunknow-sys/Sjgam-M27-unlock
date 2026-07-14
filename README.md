@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="teardown_photos/IMG_20260705_162503_260.jpg" width="600">
+  <img src="IMG_20260705_162503_260.jpg" width="600">
 </p>
 
 # Sjgam-M27-unlock
