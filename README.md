@@ -1,3 +1,5 @@
+![SJGam M27](.IMG_20260705_162503_260.jpg)
+
 # Sjgam-M27-unlock
 Community-driven reverse engineering project for the SJGam M27 handheld console. Exploring the hidden Android 4.4 system and its RK3188 chipset (yes, really...), firmware internals, hardware interfaces, and custom software possibilities.
 
