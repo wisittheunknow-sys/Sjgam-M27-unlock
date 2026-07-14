@@ -16,6 +16,9 @@ This project aims to document the hardware and software architecture of the cons
 
 ## Current Status
 
+## factory Check access
+- press select and (A,B,X,Y) in the original template launch testmode.apk
+
 ### Hardware access
 - Loader mode accessible using `VOL-` during boot.
 - Full NAND backup successfully dumped using Rockchip tools.
